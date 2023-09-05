@@ -5,5 +5,3 @@ Component Analysis.
 The output was predicted with Mean Square Error of 0.042, and R-Square score of 0.821.
 
 
-The database used for this project : [Admission_Predict_Ver1.1.csv](https://github.com/SwatantraJain-02/Admission-Prediction/blob/main/Admission_Predict_Ver1.1.csv)
-
